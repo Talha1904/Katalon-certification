@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f1dc5e41-7c11-4f1d-b7e7-121968297297</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.muiltr-1uhjjmf > div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.muiltr-18folvj > div.MuiListItemIcon-root.muiltr-1f8bwsm > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/ul[2]/li/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>89cbd8ed-43e0-41b8-a2a1-a1462f7093f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/fold.7172da1c879e88d6535e9e4df6c89dea.svg</value>
+      <webElementGuid>b5a476ad-0f44-44cc-a737-4cb53e64038a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muiltr-1928xwl&quot;]/div[@class=&quot;muiltr-1p33t2d&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked muiltr-dirlrl&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft muiltr-15m8mmk&quot;]/div[@class=&quot;MuiBox-root muiltr-0&quot;]/ul[@class=&quot;MuiList-root MuiList-padding button-toggle muiltr-1ontqvh&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding muiltr-1uhjjmf&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters muiltr-18folvj&quot;]/div[@class=&quot;MuiListItemIcon-root muiltr-1f8bwsm&quot;]/img[1]</value>
+      <webElementGuid>d349f39f-d6f0-443f-9996-8654bfc15a85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/ul[2]/li/div/div/img</value>
+      <webElementGuid>ccb6c051-68bc-4941-84f2-653c2d2e9b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/div/div/img</value>
+      <webElementGuid>f59bd942-59e6-46e8-b5bb-8904ae0594ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/fold.7172da1c879e88d6535e9e4df6c89dea.svg']</value>
+      <webElementGuid>8e72f531-df76-4c33-b180-5607465c267b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
