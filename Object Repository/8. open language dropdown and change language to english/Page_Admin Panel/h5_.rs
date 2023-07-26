@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_</name>
+   <tag></tag>
+   <elementGuidId>95141baa-8b96-4ea3-94b0-4af8011eeffd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.MuiTypography-root.MuiTypography-h5.header-title.muirtl-fdkvye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[3]/div/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>56ac7a8a-cadf-408b-9f1d-f81eec7fb30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 header-title muirtl-fdkvye</value>
+      <webElementGuid>17a0ae1a-ff5b-418f-b4dc-599961f346dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>لوحة القيادة</value>
+      <webElementGuid>22e1e625-257a-44a6-8fc7-85cc86a79f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex muirtl-1928xwl&quot;]/div[@class=&quot;page-wrapper muirtl-1u3gw72&quot;]/div[@class=&quot;page-header MuiBox-root muirtl-0&quot;]/div[@class=&quot;MuiBox-root muirtl-0&quot;]/h5[@class=&quot;MuiTypography-root MuiTypography-h5 header-title muirtl-fdkvye&quot;]</value>
+      <webElementGuid>4d96d60c-22c4-40d7-a547-6530be092d57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[3]/div/div/h5</value>
+      <webElementGuid>6954a977-eed6-4f12-a765-7cbffa84e0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العربية'])[1]/following::h5[1]</value>
+      <webElementGuid>8214b69e-7217-42a9-a7b3-0aad2ce6d59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Talha Khan'])[1]/following::h5[1]</value>
+      <webElementGuid>c77df41b-55fe-41c5-a17d-0e4cd828646d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing Active or Inactive number of users'])[1]/preceding::h5[1]</value>
+      <webElementGuid>66053167-2aa7-4535-a4a7-c5b5b8c7fd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Highcharts 10.3.2'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a579e89b-23e5-4ecf-a8e7-9a3c3b77cf3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>148a4348-364e-46de-a8c1-f311932573b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'لوحة القيادة' or . = 'لوحة القيادة')]</value>
+      <webElementGuid>af59c649-a698-4350-8c38-dbdb434465a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

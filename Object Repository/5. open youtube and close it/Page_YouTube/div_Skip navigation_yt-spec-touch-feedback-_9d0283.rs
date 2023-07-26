@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Skip navigation_yt-spec-touch-feedback-_9d0283</name>
+   <tag></tag>
+   <elementGuidId>5747cc50-ce6a-4695-bce9-25bfbb572ace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-clear-button']/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>160d7d37-9c3a-4840-8c65-8a923429eb3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yt-spec-touch-feedback-shape__fill</value>
+      <webElementGuid>1a983760-33c8-4c77-89d9-93a6a89c84a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-clear-button&quot;)/ytd-button-renderer[@class=&quot;style-scope ytd-searchbox&quot;]/yt-button-shape[1]/button[@class=&quot;yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default&quot;]/yt-touch-feedback-shape[1]/div[@class=&quot;yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response&quot;]/div[@class=&quot;yt-spec-touch-feedback-shape__fill&quot;]</value>
+      <webElementGuid>b92c487d-2e57-486a-9147-cf8b83364539</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-clear-button']/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      <webElementGuid>8bdfad6b-2e0d-4c46-8da4-9667590e3eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      <webElementGuid>7a51a0bb-2776-46b0-9a2e-86a85c384e6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
